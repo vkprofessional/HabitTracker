@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "Local-only personal habit tracker and weekly review engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
